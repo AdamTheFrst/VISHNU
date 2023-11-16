@@ -1,0 +1,36 @@
+.mydiv {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-image: url('../images/food1.jpg');
+    margin-bottom: 50px;
+}
+
+img {
+     width: 20%;
+    }
+
+.mainrow {
+    display: flex;
+} 
+
+.cols img {
+     border-radius: 50%;
+    }
+
+.row {
+    padding-left: 50px;
+  
+}
+.cols1{ display: inline-block; width: 24%;}
+ 
+.leftsession{ display: inline-block; width:50%;}
+.rightsession{ display: inline-block; width: 39%;}
+button{
+    background-color: red;
+    width: 100px;
+    height: 50px;
+}
+.img2{
+    text-align: right;
+    
+}
